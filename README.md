@@ -30,6 +30,7 @@ Simple real time chat application in Swift 5 using Firebase - Practice with iOS
 | - | - | - |
 | <img src="./ScreenShots/chatting.png" width="250"> | <img src="./ScreenShots/messages.png" width="250"> | <img src="./ScreenShots/newconversation.png" width="250"> |
 
+And Dark Mode, I believe you can imagine it
 
 ## Development team
 * [Phuc Tran Ba](https://github.com/phuctranba)
